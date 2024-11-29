@@ -1,7 +1,7 @@
 # v2raytun
-## Current Version: 2.8.26
+## Current Version: 2.8.29
 
-📲 Android update 2.8.26
+📲 Android update 2.8.29
 
 - Added export config
 - Added export subscription
