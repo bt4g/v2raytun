@@ -1,20 +1,21 @@
-# v2raytun
-## Current Version: 2.8.29
+# v2raytun  
+## Current Version: 3.9.33  
 
-📲 Android update 2.8.29
+📲 **Android Update 3.9.33**  
 
-- Added export config
-- Added export subscription
-- Added import and export rules
-- Added more features
-- Refactor routing function
-- UI improvements
-- New deeplinks
-- Core update
+- **Core update** to version 24.12.31  
+- **Premium+ configuration import** (https://t.me/v2raytun_bot) from the smartphone app to the Android TV app  
+- **Support for Android 15**  
+- **Support for iOS deeplinks**  
+- **Support for Hysteria2**  
+- **Support for XHTTP**  
+- **Support for XHTTP Extra**  
+- **LAN traffic bypass settings** via VPN  
+- **Additional HTTP traffic proxying settings**, bypassing the device's network adapter  
+- **Various UI and performance improvements**  
 
-- hotfix: https://t.me/v2raytun/4/11481
+🚀 **Available on Google Play** (https://play.google.com/store/apps/details?id=com.v2raytun.android)
 
-🚀 Available on Google Play (https://play.google.com/store/apps/details?id=com.v2raytun.android)
 
 ## Latest Release
 [View on GitHub](https://github.com/DigneZzZ/v2raytun/releases/latest)
