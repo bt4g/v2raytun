@@ -1,7 +1,7 @@
 # v2raytun  
-## Current Version: 3.9.33  
+## Current Version: 3.9.34  
 
-📲 **Android Update 3.9.33**  
+📲 **Android Update 3.9.34**  
 
 - **Core update** to version 24.12.31  
 - **Premium+ configuration import** (https://t.me/v2raytun_bot) from the smartphone app to the Android TV app  
