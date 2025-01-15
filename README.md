@@ -1,5 +1,16 @@
 # v2raytun  
-## Current Version: 3.9.34  
+## Current Version: 3.9.37  
+
+📲 **Android Update 3.9.37**  
+
+- **Application filtering** added for routing  
+- **Bug fixes** (40393: https://t.me/v2raytun/17/40393)  
+
+🚀 **Available on Google Play** (https://play.google.com/store/apps/details?id=com.v2raytun.android)  
+
+---
+
+## Previous Version: 3.9.34  
 
 📲 **Android Update 3.9.34**  
 
@@ -15,6 +26,7 @@
 - **Various UI and performance improvements**  
 
 🚀 **Available on Google Play** (https://play.google.com/store/apps/details?id=com.v2raytun.android)
+
 
 
 ## Latest Release
