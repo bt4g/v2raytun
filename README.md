@@ -1,7 +1,7 @@
 # v2raytun  
-## Current Version: 3.9.37  
+## Current Version: 3.9.38  
 
-📲 **Android Update 3.9.37**  
+📲 **Android Update 3.9.38**  
 
 - **Application filtering** added for routing  
 - **Bug fixes** (40393: https://t.me/v2raytun/17/40393)  
