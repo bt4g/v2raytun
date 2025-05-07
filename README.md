@@ -1,5 +1,48 @@
 # v2raytun  - Android
-## Current Version: 3.9.40
+
+
+## Current Version: 3.12.46
+
+* Fixed connection restart when switching configuration
+* Fixed parsing of the `extra` value in `xhttp`
+* Fixed traffic display in subscription
+* Fixed subscription import via deeplink
+* Fixed reading of the `routing` header
+
+🚀 Available on [Google Play](https://play.google.com/store/apps/details?id=com.v2raytun.android)
+
+---
+
+## Previous Version: 3.12.44
+
+* Added support for headers: `X-HWID`, `X-Device-OS`, `X-Ver-OS`, `X-Device-Model`, `X-App-Version` (see [Device Limit](https://docs.v2raytun.com/overview/device-limit))
+* Added support for `routing` header (see [Routing](https://docs.v2raytun.com/overview/supported-headers#routing))
+* Added support for `announce` header (see [Announce](https://docs.v2raytun.com/overview/supported-headers#announce))
+* Added support for `announce-url` header (see [Announce URL](https://docs.v2raytun.com/overview/supported-headers#announce-url))
+* Added support for `update-always` header (see [Update Always](https://docs.v2raytun.com/overview/supported-headers#update-always))
+* Added support for headers from body (using `#`)
+* Added support for JSON subscriptions
+* UI improvements
+* Fixed delay when adding subscription
+* Fixed layout stretching when pinging configs
+* Deeplinks for control available for testing:
+
+  * `v2raytun://control/start`
+  * `v2raytun://control/stop`
+  * `v2raytun://control/restart`
+
+🚀 Available on [Google Play](https://play.google.com/store/apps/details?id=com.v2raytun.android)
+
+⭐️ Support the developers and buy Premium+ here: [https://t.me/v2raytun\_bot](https://t.me/v2raytun_bot)
+
+---
+
+Хочешь, чтобы я помог сверстать это красиво для GitHub README или релизов?
+
+
+--
+
+## Previous Version: 3.9.40
 
 📲 **Android Update 3.9.40**  
 
