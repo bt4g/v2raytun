@@ -35,12 +35,8 @@
 
 ⭐️ Support the developers and buy Premium+ here: [https://t.me/v2raytun\_bot](https://t.me/v2raytun_bot)
 
+
 ---
-
-Хочешь, чтобы я помог сверстать это красиво для GitHub README или релизов?
-
-
---
 
 ## Previous Version: 3.9.40
 
