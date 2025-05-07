@@ -85,4 +85,5 @@
 
 ### Contact
 For any questions or inquiries, please contact us via [Telegram](https://t.me/v2raytun).
-<!-- Updated on Mon Oct  7 18:27:34 UTC 2024 -->
+
+### Sponsored by NeoNode.cc & OpeNode.xyz
