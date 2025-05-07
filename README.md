@@ -86,4 +86,4 @@
 ### Contact
 For any questions or inquiries, please contact us via [Telegram](https://t.me/v2raytun).
 
-### Sponsored by [NeoNode.cc](https://neonode.cc) & [OpeNode.xyz](https://openode.xyz)
+### GitHub RELEASE published by the [NeoNode.cc](https://neonode.cc) & [OpeNode.xyz](https://openode.xyz)
